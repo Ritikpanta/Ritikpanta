@@ -10,7 +10,7 @@ as well as I will really appreciate If you will help to fix those as well. I am 
 - [ Linkedin - @Ritikpanta ](https://www.linkedin.com/in/ritik-panta-542a76236/)
 - [ Facebook - @Ritikpanta ](https://www.facebook.com/ritik.panta.7/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ritikpanta&theme=merko&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Ritikpanta&theme=merko&show">
 
 
 ### THANK YOU !
