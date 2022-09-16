@@ -20,3 +20,4 @@ as well as I will really appreciate If you will help to fix those as well. I am 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikpanta&" alt="ritikpanta" /></p>
+<p><img aligh="center" src="https://github-readme-stats.vercel.app/api?username=Ritikpanta&theme=merko&show"/></p>
