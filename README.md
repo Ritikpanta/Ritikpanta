@@ -6,12 +6,9 @@ as well as I will really appreciate If you will help to fix those as well. I am 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ritikpanta_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikpanta_12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritikpanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikpanta" height="30" width="40" /></a>
-<a href="https://instagram.com/ritikpanta_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikpanta_12" height="30" width="40" /></a>
+<a href="https://twitter.com/ritikpanta_12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikpanta_12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritikpanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikpanta" height="30" width="40" /></a>
+<a href="https://instagram.com/ritikpanta_12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikpanta_12" height="30" width="40" /></a>
 </p>
 
 
-
-
-<p><img aligh="center" src="https://github-readme-stats.vercel.app/api?username=Ritikpanta&theme=merko&show"/></p>
